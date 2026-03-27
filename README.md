@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @diana-reut
 - 👀 I’m interested in learning new stuff and connecting with new people😄
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I've known that I was going to study computer science even before I knew how to turn on a PC😄 because IT seemed fascinating to me
 
 <!---
